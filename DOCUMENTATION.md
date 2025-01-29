@@ -26,6 +26,9 @@ The purpose of the documentation in software industry especially for new onboard
 - It is a web-based hosting service platform. It allows us to store and share coide with others.
 - It is the most poupular one hosting platform used by every type of industry.
 
+# 3. Installation and Setup:
+
+
 
 
 
