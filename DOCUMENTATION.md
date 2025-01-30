@@ -28,6 +28,22 @@ The purpose of the documentation in software industry especially for new onboard
 
 # 3. Installation and Setup:
 
+
+
+# 4. Check you GIT version: 
+- To check the current version of git in your system, you can run the following command in your terminal :
+  git --version
+
+# 5. Basic Terminologies :
+1. **Repository** : It is like a folder or storage where all your project files along with the changes made in it are stored.
+2. **Commit** : It's a way to save changes in your code. It's necessary step. After commit we can add a commit message as well so that we would get to know at what time and where the change were being made.
+- We can think of it like this : Write --> add --> commit --> push
+3. **Directory** : It's a location where all the files are being stored. (basically the folder in which we are working at that time)
+4. **Staging Area** : It's a place when the code is ready to be pushed and ready to have commit messages by the developer.
+
+# 6. Git Workflow :
+- git init --> working directory --> git add --> staging area --> git commit --> Repo --> git push --> Github
+
 # 4. Basic Git Commands:
  - git init : Initialize a new Git repository
  - git add . : Stage all changes in the current directory
@@ -36,3 +52,6 @@ The purpose of the documentation in software industry especially for new onboard
  - git pull : Fetch and merge changes from a remote repo
  - git branch : List branches
  - git clone <url> : Clone a repository from a URL
+
+
+
