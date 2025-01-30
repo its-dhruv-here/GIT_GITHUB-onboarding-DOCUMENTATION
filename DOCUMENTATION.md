@@ -52,6 +52,9 @@ The purpose of the documentation in software industry especially for new onboard
  - git pull : Fetch and merge changes from a remote repo
  - git branch : List branches
  - git clone <url> : Clone a repository from a URL
+<<<<<<< HEAD
 
 
 
+=======
+>>>>>>> ddf2122 (NEW CHANGES)
