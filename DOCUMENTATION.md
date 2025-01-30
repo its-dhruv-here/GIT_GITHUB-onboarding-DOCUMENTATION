@@ -28,13 +28,11 @@ The purpose of the documentation in software industry especially for new onboard
 
 # 3. Installation and Setup:
 
-
-
-
-
-
-
-
-
-
-
+# 4. Basic Git Commands:
+ - git init : Initialize a new Git repository
+ - git add . : Stage all changes in the current directory
+ - git commit -m "message" : Commit staged changes with a message
+ - git push : Push commits to a remote repository
+ - git pull : Fetch and merge changes from a remote repo
+ - git branch : List branches
+ - git clone <url> : Clone a repository from a URL
